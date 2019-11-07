@@ -22,6 +22,11 @@ Cette possibilité est prévue par Orange (Page X du manuel de la Livebox 5) car
 
 Une fois l'ONT externe installé, vous pouvez passer à la configuration de votre routeur.
 
+## Configuration générale
+Dans ce guide l'ONT externe de la Livebox sera connecté sur le port éthernet 0 du routeur, le lan sera connecté sur le port éthernet 1 et le decodeur TV UHD sera connecté sur le port éthernet 2.
+
+[TBD INSERER LE SCHEMA GLOBAL]
+
 ## Configuration Internet IPV4
 
 A ECRIRE
